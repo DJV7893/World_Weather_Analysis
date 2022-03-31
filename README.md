@@ -9,6 +9,7 @@
   
 ---
 ## Resources:
+---
 
 Data Source: WeatherPy_Database.csv, WeatherPy_Vacation.csv, 
 
