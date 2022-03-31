@@ -10,3 +10,6 @@
 ---
 ## Resources:
 
+Data Source: WeatherPy_Database.csv, WeatherPy_Vacation.csv, 
+
+Software: Python 3.7.6, Jupyter Notebook 6.4.5
